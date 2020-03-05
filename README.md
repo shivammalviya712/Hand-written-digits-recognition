@@ -1,4 +1,4 @@
-# Objectibe
+# Objective
 
 - To train a neural network to recognise the handwritten digits from given images.
 
